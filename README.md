@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmberRambles
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning how to use wxwidgets
+- 🌱 I’m currently attending WGU for Software Development
 - 💞️ I’m looking to collaborate on GUI development
 - 📫 How to reach me amber.z.shifflett@outlook.com
 
